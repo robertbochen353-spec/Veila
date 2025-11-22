@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_maker_blog=globalThis.webpackChunkmy_maker_blog||[]).push([[3267],{9100:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/Veila/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
