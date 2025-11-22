@@ -10,10 +10,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Maker Journey',
-  tagline: 'Building, Learning, Creating',
-  favicon: 'img/favicon.ico',
-
+  title: 'Veila™',
+  tagline: 'Tech for your comfort.',
+  url: 'https://robertbochen353-specgithub.io',
+  baseUrl: '/Veila/',
+  organizationName: 'robertbochen353-spec',
+  projectName: 'Veila',
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
