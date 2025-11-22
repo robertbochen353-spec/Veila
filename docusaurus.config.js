@@ -12,10 +12,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Veila™',
   tagline: 'Tech for your comfort.',
-  url: 'https://robertbochen353-spec.github.io',
-  baseUrl: '/Veila/',
-  organizationName: 'robertbochen353-spec',
-  projectName: 'Veila',
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
@@ -29,8 +25,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'robertbochen353-spec', // Usually your GitHub org/user name.
+  projectName: 'Veila', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
