@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Veila™',
   tagline: 'Tech for your comfort.',
-  url: 'https://robertbochen353-specgithub.io',
+  url: 'https://robertbochen353-spec.github.io',
   baseUrl: '/Veila/',
   organizationName: 'robertbochen353-spec',
   projectName: 'Veila',
